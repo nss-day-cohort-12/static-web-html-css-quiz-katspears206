@@ -1,0 +1,32 @@
+article {
+	width: 30%;
+	border: 1px solid lightblue;
+	display: inline-block;
+}
+
+.title {
+	border: 1px dotted lightgrey;
+	text-align: center;
+}
+
+img {
+	text-align: center;
+	width: 100%;
+	max-height: 160px;
+}
+
+p {
+	text-align: justify;
+}
+
+.specs,
+.price {
+	font-weight: bold;
+}
+
+.availability {
+	width: 100%;
+	background-color: darkgrey;
+	color: yellow;
+	text-align: center;
+}
