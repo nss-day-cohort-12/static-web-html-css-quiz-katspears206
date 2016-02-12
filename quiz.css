@@ -1,0 +1,59 @@
+article {
+	width: 30%;
+	border: 1px solid lightblue;
+	display: inline-block;
+}
+
+.title {
+	border: 1px dotted lightgrey;
+	text-align: center;
+}
+
+img {
+	text-align: center;
+	width: 100%;
+	max-height: 160px;
+}
+
+p {
+	text-align: justify;
+}
+
+.specs,
+.price {
+	font-weight: bold;
+	padding: 0;
+}
+
+.specs{
+	margin-top: 15px;
+}
+
+section footer {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.availability {
+	width: 100%;
+	background-color: darkgrey;
+	color: yellow;
+	text-align: center;
+}
+
+.headers {
+	font-size: 1.25em;
+	margin-left: 10px;
+}
+
+li {
+	list-style: none;
+	padding: 0 10px;
+	margin-left: 10px;
+}
+
+
+footer {
+	font-weight: 100;
+	font-size: .75em;
+}
