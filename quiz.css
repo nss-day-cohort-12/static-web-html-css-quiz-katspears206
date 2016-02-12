@@ -22,6 +22,16 @@ p {
 .specs,
 .price {
 	font-weight: bold;
+	padding: 0;
+}
+
+.specs{
+	margin-top: 15px;
+}
+
+section footer {
+	margin-left: 0;
+	padding-left: 0;
 }
 
 .availability {
@@ -31,11 +41,19 @@ p {
 	text-align: center;
 }
 
+.headers {
+	font-size: 1.25em;
+	margin-left: 10px;
+}
+
 li {
 	list-style: none;
+	padding: 0 10px;
+	margin-left: 10px;
 }
 
 
 footer {
 	font-weight: 100;
+	font-size: .75em;
 }
